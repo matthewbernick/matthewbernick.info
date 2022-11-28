@@ -218,7 +218,7 @@ input, select, textarea {
 		-webkit-transform: translate3d(0,0,0);
 		-ms-transform: translate3d(0,0,0);
 		transform: translate3d(0,0,0);
-		background: #ececec url("images/earth-bg.jpg") bottom;
+		background: #ececec url("images/forest.jpg") bottom;
 		background-repeat: repeat-x;
 		height: 100%;
 		left: 0;
@@ -292,7 +292,7 @@ input, select, textarea {
 	}
 
 	#bg {
-		background-size: 102% auto;
+		background-size: 30% auto;
 		width: 6750px;
 	}
 
@@ -801,7 +801,7 @@ input, select, textarea {
 		}
 
 		#bg {
-			background-size: 102% auto;
+			background-size: 46% auto;
 			width: 4500px;
 		} }
 
@@ -969,7 +969,7 @@ input, select, textarea {
 		}
 
 		#bg {
-			background-size: 230% auto;
+			background-size: 120% auto;
 			width: 900px;
 		}
 
@@ -1068,7 +1068,7 @@ input, select, textarea {
 		}
 
 		#bg {
-			background-size: 230% auto;
+			background-size: 112% auto;
 			width: 1237.5px;
 		}
 
@@ -1149,7 +1149,7 @@ input, select, textarea {
 			}
 	
 			#bg {
-				background-size: 230% auto;
+				background-size: 112% auto;
 				width: 1237.5px;
 			}
 	
@@ -1230,7 +1230,7 @@ input, select, textarea {
 			}
 	
 			#bg {
-				background-size: 230% auto;
+				background-size: 112% auto;
 				width: 1237.5px;
 			}
 	
